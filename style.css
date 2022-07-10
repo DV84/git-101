@@ -1,6 +1,7 @@
 body {
 	margin:0;
 	font-family: Ms Trebuchet;
+	background-color: darkred;
 
 }
 
@@ -13,6 +14,7 @@ body {
 
 h1 {
 	font-weight: 100;
+	color: whitesmoke;
 
 
 }
